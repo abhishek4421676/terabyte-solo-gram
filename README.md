@@ -71,8 +71,8 @@ Diagrams
 Frontend renders fake data → Optional backend stores profile edits → Everything else is just smoke and mirrors.
 
 Project Demo
-Video: 
-A walk-through of SoloGram showing posting, stories, and ridiculous notifications.
+Video: https://drive.google.com/file/d/1RWJSLTWozK7k8JNR0Nv3HZYUMfF216HD/view?usp=sharing
+
 
 Team Contributions
 Abhishek Reji: Full-stack development, UI design, fake data generation, content humor writing.
