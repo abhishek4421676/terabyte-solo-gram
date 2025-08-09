@@ -64,11 +64,8 @@ Fake DMs from random usernames congratulating you on your “viral” post
 
 <img width="640" height="1006" alt="image" src="https://github.com/user-attachments/assets/70741b7a-ebcf-437c-9ab2-260c2c5e4599" />
 
-Notification screen proudly announcing you gained 20M followers overnight
 
-Diagrams
-![Workflow](Add workflow diagram here)
-Frontend renders fake data → Optional backend stores profile edits → Everything else is just smoke and mirrors.
+
 
 Project Demo
 Video: https://drive.google.com/file/d/1RWJSLTWozK7k8JNR0Nv3HZYUMfF216HD/view?usp=sharing
