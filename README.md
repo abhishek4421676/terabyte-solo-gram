@@ -1,80 +1,69 @@
-SoloGram 🎯
-Basic Details
-Team Name: MemeCoders
-Team Members
-Team Lead: Abhishek Reji – Christ College of Engineering
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-Project Description
+
+# SoloGram 🎯
+
+
+## Basic Details
+### Team Name: MemeCoders
+
+
+### Team Members
+- Team Lead: Abhishek Reji - Christ College of Engineering
+
+### Project Description
 SoloGram is a parody social media app where you are the only user — yet you look like a superstar with millions of fans. Fake likes, fake followers, fake DMs… all real laughter.
 
-The Problem (that doesn't exist)
+### The Problem (that doesn't exist)
 Lonely on social media? Tired of waiting for likes? Craving celebrity status without talent, money, or paparazzi?
 
-The Solution (that nobody asked for)
+### The Solution (that nobody asked for)
 SoloGram gives you the illusion of fame.
-
 20M+ “followers” (random usernames)
-
 Over-the-top notifications like “Breaking: You just broke the internet!”
-
 Stories, posts, and comments… all from you to yourself.
-
 All backend data is fake, but the dopamine is real.
 
-Technical Details
-Technologies/Components Used
+## Technical Details
+### Technologies/Components Used
 For Software:
+- JavaScript, HTML, CSS
+- React.js, Node.js
+- Tailwind CSS, Faker.js
+- Vite, Vercel
 
-Languages: JavaScript, HTML, CSS
 
-Frameworks: React.js, Node.js (optional backend if needed)
-
-Libraries: Tailwind CSS, Faker.js (for random usernames & comments)
-
-Tools: Vite, GitHub Pages / Vercel for deployment
-
-For Hardware:
-
-None — except your computer and a broken sense of humor.
-
-Implementation
-For Software:
-
-Installation
-bash
-Copy
-Edit
+### Implementation
+# Installation
 git clone https://github.com/yourusername/sologram.git
 cd sologram
 npm install
-Run
-bash
-Copy
-Edit
+
+# Run
 npm run dev
-Project Documentation
-Screenshots
-<img width="1903" height="1006" alt="image" src="https://github.com/user-attachments/assets/cdc2f981-4484-488c-85ef-ed86f14203da" />
 
-Home feed showing your own posts with millions of fake likes
+### Project Documentation
 
-<img width="640" height="1006" alt="image" src="https://github.com/user-attachments/assets/2bb31a97-2959-4a52-a64a-ab6943a8dbe1" />
+# Screenshots (Add at least 3)
+<img src="https://drive.google.com/file/d/1I4KrV41Tw7tjjDy9nzEkmZybkzUEVPxC/view?usp=drive_link">
+*Add caption explaining what this shows*
 
-Fake DMs from random usernames congratulating you on your “viral” post
+<img src="https://drive.google.com/file/d/1pRMbrq6PzCdg-2DmgfcOGio93P8iBuW4/view?usp=drive_link">
+*Add caption explaining what this shows*
 
-<img width="640" height="1006" alt="image" src="https://github.com/user-attachments/assets/70741b7a-ebcf-437c-9ab2-260c2c5e4599" />
+<img src="https://drive.google.com/file/d/1GjN56yqymWyuzhp0-bvgV102rykGEUDp/view?usp=drive_link">
+*Add caption explaining what this shows*
 
+### Project Demo
+# Video
+https://drive.google.com/file/d/1RWJSLTWozK7k8JNR0Nv3HZYUMfF216HD/view?usp=drive_link
+*Explain what the video demonstrates*
 
+---
+Made with ❤️ at TinkerHub Useless Projects 
 
-
-Project Demo
-Video: https://drive.google.com/file/d/1RWJSLTWozK7k8JNR0Nv3HZYUMfF216HD/view?usp=sharing
-
-
-Team Contributions
-Abhishek Reji: Full-stack development, UI design, fake data generation, content humor writing.
-
-Made with ❤️ at TinkerHub Useless Projects
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
 
 
 
